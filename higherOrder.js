@@ -4,4 +4,4 @@ const repeat = (callback, num) => {
   }
 };
 
-module.exports = repeat
+module.exports = repeat;
